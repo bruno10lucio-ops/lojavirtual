@@ -1,1 +1,1 @@
-Texto alterado no repositorio local
+Texto alterado no repositorio local, alterado o usuario
